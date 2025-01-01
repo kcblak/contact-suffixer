@@ -12,7 +12,7 @@ This is a Python application that processes a CSV file and appends a user-define
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/USERNAME/contact-suffixer.git
+    git clone https://github.com/kcblak/contact-suffixer.git
     ```
 
 2. Install the required dependencies:
